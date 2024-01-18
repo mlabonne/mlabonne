@@ -18,7 +18,8 @@ Hi, I'm a Machine Learning Scientist, Author, Blogger, and LLM hacker.
 
 ## 🤗 Models
 
+* [**NeuralBeagle14-7B**](https://huggingface.co/mlabonne/NeuralBeagle14-7B): My most powerful 7B model (rank 10 on the entire Open LLM Leaderboard, including >70B param models). [[Demo]](https://huggingface.co/spaces/mlabonne/NeuralBeagle14-7B-GGUF-Chat)
 * [**Phixtral**](https://huggingface.co/mlabonne/phixtral-2x2_8): Novel Mixture of Experts architecture with phi-2 models. [[Demo]](https://huggingface.co/spaces/mlabonne/phixtral-chat)
 * [**Beyonder**](https://huggingface.co/mlabonne/Beyonder-4x7B-v2): Mixture of Experts with four excellent fine-tuned Mistral-7b models. [[Demo]](https://huggingface.co/spaces/mlabonne/Beyonder-4x7B-v2-GGUF-Chat)
-* [**NeuralMarcoro14**](https://huggingface.co/mlabonne/NeuralMarcoro14-7B): My most powerful general-purpose 7B model (rank 1 on the Open LLM Leaderboard). [[Demo]](https://huggingface.co/spaces/mlabonne/NeuralMarcoro14-7B-GGUF-Chat)
+* [**NeuralMarcoro14**](https://huggingface.co/mlabonne/NeuralMarcoro14-7B): My previous best general-purpose 7B model (rank 1 on the Open LLM Leaderboard 7B param). [[Demo]](https://huggingface.co/spaces/mlabonne/NeuralMarcoro14-7B-GGUF-Chat)
 * [**NeuralHermes**](https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B): A DPO fine-tuned version of OpenHermes (extremely cost-efficient). [[Demo]](https://huggingface.co/spaces/mlabonne/NeuralHermes-2.5-Mistral-7B-GGUF-Chat)
