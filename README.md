@@ -12,9 +12,10 @@ Hi, I'm a Machine Learning Scientist, Author, Blogger, and LLM Developer.
 
 ## 💼 Projects
 
-* [**The LLM Course**](https://github.com/mlabonne/llm-course): A popular curated list of resources to get into LLMs (>28k ⭐).
-* [**Hands-on GNNs**](https://github.com/mlabonne/llm-course): My book about graph neural networks published by Packt (all the code is open source).
-* [**LLM Tools**](https://github.com/mlabonne/llm-course?tab=readme-ov-file#tools): Automate LLM pipelines with Colab notebooks like [LLM AutoEval](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing), [LazyMergekit](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing), [LazyAxolotl](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing), and [AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing).
+* [**The LLM Course**](https://github.com/mlabonne/llm-course): A popular curated list of resources to get into LLMs (>29k ⭐).
+* [**Hands-on GNNs**](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python): My book about graph neural networks published by Packt (all the code is open source).
+* [**LLM Datasets**](https://github.com/mlabonne/llm-datasets): Curated list of high-quality datasets for LLM fine-tuning.
+* [**LLM Tools**](https://github.com/mlabonne/llm-course?tab=readme-ov-file#tools): Automate LLM pipelines with Colab notebooks like [LLM AutoEval](https://github.com/mlabonne/llm-autoeval), [LazyMergekit](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing), [LazyAxolotl](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing), and [AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing).
 
 ## 🤗 Models
 
