@@ -12,7 +12,7 @@ Hi, I'm a Machine Learning Scientist, Author, Blogger, and LLM Developer.
 
 ## 💼 Projects
 
-* [**The LLM Course**](https://github.com/mlabonne/llm-course): A popular curated list of resources to get into LLMs (>48k ⭐).
+* [**The LLM Course**](https://github.com/mlabonne/llm-course): A popular curated list of resources to get into LLMs (>57k ⭐).
 * [**LLM Engineer's Handbook**](https://github.com/PacktPublishing/LLM-Engineers-Handbook): My book about LLM engineering with fine-tuning, RAG, data, evaluation, deployment, etc.
 * [**Hands-on GNNs**](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python): My book about designing and implementing graph neural networks in practice.
 * [**LLM Datasets**](https://github.com/mlabonne/llm-datasets): Curated list of high-quality datasets for LLM fine-tuning.
